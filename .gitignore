@@ -1,3 +1,13 @@
-# git 提交忽略的文件
+_site/*
+_theme_packages/*
 
-*.pyc
+Thumbs.db
+.DS_Store
+
+!.gitkeep
+
+.rbenv-version
+.rvmrc
+
+*.swp
+
